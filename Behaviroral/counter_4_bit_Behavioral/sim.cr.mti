@@ -1,0 +1,21 @@
+C:/Users/priso/OneDrive/Desktop/vhdl_code/Behavioral/counter/SRC/tb_counter_4_bit.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/priso/OneDrive/Desktop/vhdl_code/Behavioral/counter/SRC/tb_counter_4_bit.vhdl
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity test_counter_4_bit
+-- Compiling architecture test of test_counter_4_bit
+
+} {} {}} C:/Users/priso/OneDrive/Desktop/vhdl_code/Behavioral/counter/SRC/counter_4_bit.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/priso/OneDrive/Desktop/vhdl_code/Behavioral/counter/SRC/counter_4_bit.vhdl
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_4_bit
+-- Compiling architecture behavioral of counter_4_bit
+
+} {} {}}

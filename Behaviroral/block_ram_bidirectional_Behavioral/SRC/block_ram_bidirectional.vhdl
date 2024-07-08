@@ -35,3 +35,4 @@ BEGIN
     data <= data_out WHEN(re = '1' AND we = '0') ELSE
         high_impedance;
 END ARCHITECTURE;
+--fatemeh_damavandi

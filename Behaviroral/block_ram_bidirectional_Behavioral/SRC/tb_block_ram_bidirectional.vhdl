@@ -34,3 +34,4 @@ BEGIN
     data <= X"1111", X"2222" AFTER 10 ns, X"3333" AFTER 20 ns, X"4444" AFTER 30 ns, X"5555" AFTER 40 ns, X"6666" AFTER 50 ns, X"7777" AFTER 60 ns, X"8888" AFTER 70 ns, X"9999" AFTER 80 ns,
         X"0000" AFTER 90 ns, X"1234" AFTER 100 ns, high_impedance AFTER 110 ns, X"7890" AFTER 130 ns, high_impedance AFTER 150 ns;
 END ARCHITECTURE;
+--fatemeh_damavandi
